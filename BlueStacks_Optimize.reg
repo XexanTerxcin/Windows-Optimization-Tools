@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+; Optimized by SMY GAMER
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Config]
+"ForceDedicatedGPU"=dword:00000001
+"Assist"="SMY GAMER"
+"Assist1"="SMY GAMER"
+"Assist2"="SMY GAMER"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Config]
+"ForceDedicatedGPU"=dword:00000001
+"Assist"="SMY GAMER"
+"Assist1"="SMY GAMER"
+"Assist2"="SMY GAMER"
